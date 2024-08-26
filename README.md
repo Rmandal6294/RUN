@@ -1,3 +1,3 @@
 # RUN
 This is my first Repo
-<h1> Author : - Ranit Mandal </h1>
+<h1> Author : - R.Mandal </h1>
